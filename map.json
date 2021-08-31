@@ -147,8 +147,8 @@
                 }, 
                 {
                  "name":"openWebsiteWidth",
-                 "type":"string",
-                 "value":"80"
+                 "type":"int",
+                 "value":80
                 }],
          "type":"tilelayer",
          "visible":true,
